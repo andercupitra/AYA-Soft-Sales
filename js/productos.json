@@ -1,0 +1,153 @@
+[
+    {
+        "id": "abrigo-01",
+        "titulo": "windows 11",
+        "imagen": "./img/abrigos/01.jpg",
+        "categoria": {
+            "nombre": "sistemas operativos",
+            "id": "sistemas operativos"
+        },
+        "precio": 15000
+    },
+    {
+        "id": "abrigo-02",
+        "titulo": "office 2021",
+        "imagen": "./img/abrigos/02.jpg",
+        "categoria": {
+            "nombre": "sistemas operativos",
+            "id": "sistemas operativos"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "abrigo-03",
+        "titulo": "windows 10",
+        "imagen": "./img/abrigos/03.jpg",
+        "categoria": {
+            "nombre": "sistemas operativos",
+            "id": "sistemas operativos"
+        },
+        "precio": 12000
+    },
+    {
+        "id": "abrigo-04",
+        "titulo": "windows 10 gamer edition ",
+        "imagen": "./img/abrigos/04.jpg",
+        "categoria": {
+            "nombre": "sistemas operativos",
+            "id": "sistemas operativos"
+        },
+        "precio": 12000
+    },
+    {
+        "id": "camiseta-01",
+        "titulo": "finale",
+        "imagen": "img/camisetas/unnamed.jpg",
+        "categoria": {
+            "nombre": "Audio",
+            "id": "Audio"
+        },
+        "precio": 10000
+    },
+    {
+        "id": "camiseta-02",
+        "titulo": "adobe animate",
+        "imagen": "./img/camisetas/02.jpg",
+        "categoria": {
+            "nombre": "Diseño",
+            "id": "Diseño"
+        },
+        "precio": 12000
+    },
+    {
+        "id": "camiseta-03",
+        "titulo": "pepakura designer",
+        "imagen": "./img/camisetas/03.jpg",
+        "categoria": {
+            "nombre": "Diseño",
+            "id": "Diseño"
+        },
+        "precio": 10000
+    },
+    {
+        "id": "camiseta-04",
+        "titulo": "home designer",
+        "imagen": "./img/camisetas/04.jpg",
+        "categoria": {
+            "nombre": "Diseño",
+            "id": "Diseño"
+        },
+        "precio": 12000
+    },
+    {
+        "id": "camiseta-07",
+        "titulo": "edraw max",
+        "imagen": "./img/camisetas/07.jpg",
+        "categoria": {
+            "nombre": "Diseño",
+            "id": "Diseño"
+        },
+        "precio": 10000
+    },
+    {
+        "id": "camiseta-08",
+        "titulo": "simple mind",
+        "imagen": "./img/camisetas/08.jpg",
+        "categoria": {
+            "nombre": "Diseño",
+            "id": "Diseño"
+        },
+        "precio": 10000
+    },
+    {
+        "id": "pantalon-01",
+        "titulo": "marvelous designer",
+        "imagen": "img/pantalones/01.jpg",
+        "categoria": {
+            "nombre": "Diseño",
+            "id": "Diseño"
+        },
+        "precio": 10000
+    },
+    {
+        "id": "pantalon-02",
+        "titulo": "avs audio editor",
+        "imagen": "./img/pantalones/02.jpg",
+        "categoria": {
+            "nombre": "Audio",
+            "id": "Audio"
+        },
+        "precio": 10000
+    },
+    {
+        "id": "pantalon-03",
+        "titulo": "music maker live",
+        "imagen": "img/pantalones/03.jpg",
+        "categoria": {
+            "nombre": "Audio",
+            "id": "Audio"
+        },
+        "precio": 10000
+    },
+    {
+        "id": "pantalon-04",
+        "titulo": "adobe audition",
+        "imagen": "img/pantalones/04.jpg",
+        "categoria": {
+            "nombre": "Audio",
+            "id": "Audio"
+        },
+        "precio": 10000
+    },
+    {
+        "id": "pantalon-05",
+        "titulo": "audio converter",
+        "imagen": "./img/pantalones/05.jpg",
+        "categoria": {
+            "nombre": "Audio",
+            "id": "Audio"
+        },
+        "precio": 10000
+    }
+
+]
